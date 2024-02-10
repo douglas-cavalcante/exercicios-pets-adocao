@@ -2,7 +2,7 @@
 <template>
   <div class="main-content">
     <div class="left-content">
-      <h1 class="title">Me leva para casa</h1>
+      <h1 class="title">Me leva para casa agora</h1>
       <p class="text-description">Nós cuidamos deles. Agora deixe que eles cuidem de você.</p>
       <p class="text-description">
         Aqui a gente cuida de animais resgatados de áreas evacuadas de Minas Gerais e queremos
